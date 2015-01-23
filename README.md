@@ -1,2 +1,2 @@
 # sumionka-125-d
-Moje repozytorium
+Moje repozytorium na GitHubie
